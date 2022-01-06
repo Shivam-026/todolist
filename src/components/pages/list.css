@@ -1,0 +1,13 @@
+.thead{
+    background-color: darkgray;
+}
+.head{
+    text-align: center;
+    color: darkred;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.add{
+    align-items: right;
+}
