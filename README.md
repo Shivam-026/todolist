@@ -7,9 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm run json-server'
-
-Runs the db.json file where the data is going to store.
-it will open in (http://localhost:3003)
+Runs the db.json file where the data is going to store. it will open in (http://localhost:3003)
 
 ### `npm start`
 
